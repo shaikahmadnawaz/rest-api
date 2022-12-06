@@ -27,3 +27,9 @@ We can use dotenv package to store secret keys and tokens:
 ```
 npm install dotenv
 ```
+
+To start the server:
+
+```
+npm run dev
+```
